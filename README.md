@@ -19,4 +19,4 @@ Details explanation of concepts used in this repository can be found in [medium]
 - open the preprocessing_data file and run it
 - Then run training_model file
 - then run model_selection file
-- Final selected model can be tested in heart_disease_prediction file
+- Finally, selected model can be tested in heart_disease_prediction file
